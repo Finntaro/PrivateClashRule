@@ -4,7 +4,7 @@ payload:
   - RULE-SET,private
   - RULE-SET,epic
   - RULE-SET,onedrive
-  - RULE-SET,copilot
+#  - RULE-SET,copilot
   - RULE-SET,bing
   - RULE-SET,microsoft
   - RULE-SET,icloud
