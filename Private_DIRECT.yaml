@@ -1,4 +1,29 @@
 payload:
+  - RULE-SET,wechat
+  - RULE-SET,private
+  - RULE-SET,epic
+  - RULE-SET,onedrive
+  - RULE-SET,copilot
+  - RULE-SET,bing
+  - RULE-SET,microsoft
+  - RULE-SET,icloud
+  - RULE-SET,apple
+  - RULE-SET,lancidr
+  - RULE-SET,cncidr
+  - RULE-SET,direct
+  - DOMAIN-SUFFIX,local
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,17.0.0.0/8
+  - IP-CIDR,100.64.0.0/10
+  - IP-CIDR,224.0.0.0/4
+  - IP-CIDR6,fe80::/10
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-KEYWORD,-cn
+  - GEOIP,LAN
+  - GEOIP,CN
   - DOMAIN-SUFFIX,zhile.io
   - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,xn--4gq62f52gdss
@@ -7,7 +32,6 @@ payload:
   - DOMAIN-KEYWORD,snapgenshin
   - DOMAIN-KEYWORD,gzqinghui
   - DOMAIN-KEYWORD,shawcoder
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,ipsw.me
   - DOMAIN-SUFFIX,mhystatic.com
   - DOMAIN-KEYWORD,like996

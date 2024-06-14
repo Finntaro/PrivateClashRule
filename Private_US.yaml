@@ -1,2 +1,5 @@
 payload:
   - RULE-SET,linkedin
+  - RULE-SET,openai
+  - RULE-SET,tiktok
+  - RULE-SET,binance

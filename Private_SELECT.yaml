@@ -1,0 +1,3 @@
+payload:
+  - RULE-SET,gfw
+  - RULE-SET,telegramcidr
