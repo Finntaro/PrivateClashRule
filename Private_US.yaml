@@ -1,3 +1,4 @@
 payload:
   - RULE-SET,openai
   - RULE-SET,tiktok
+  - RULE-SET,linkedin
