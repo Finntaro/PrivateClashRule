@@ -27,7 +27,6 @@ payload:
   - GEOIP,CN
   - DOMAIN-SUFFIX,zhile.io
   - DOMAIN-KEYWORD,immersivetranslate
-  - DOMAIN-KEYWORD,xn--4gq62f52gdss
   - DOMAIN-KEYWORD,duolingo
   - DOMAIN-KEYWORD,1password
   - DOMAIN-KEYWORD,snapgenshin
