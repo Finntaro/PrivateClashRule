@@ -1,2 +1,3 @@
 payload:
   - RULE-SET,binance
+  - DOMAIN-SUFFIX,tw
