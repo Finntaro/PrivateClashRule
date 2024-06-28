@@ -1,5 +1,6 @@
 payload:
   - RULE-SET,github
+  - RULE-SET,discord
   - DOMAIN-KEYWORD,myunidays
   - DOMAIN-KEYWORD,gtelocalize
   - DOMAIN-KEYWORD,marshub
