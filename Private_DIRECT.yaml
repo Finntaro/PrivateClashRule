@@ -47,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,aki-game.com
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN,wiki.metacubex.one
+  - DOMAIN,client-update.akamai.steamstatic.com
