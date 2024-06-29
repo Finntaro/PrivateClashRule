@@ -3,6 +3,7 @@ payload:
   - RULE-SET,wechat
   - RULE-SET,private
   - RULE-SET,epic
+  - RULE-SET,steamcn
   - RULE-SET,onedrive
 #  - RULE-SET,copilot
   - RULE-SET,bing
@@ -47,4 +48,3 @@ payload:
   - DOMAIN-SUFFIX,aki-game.com
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN,wiki.metacubex.one
-  - DOMAIN-SUFFIX,steamstatic.com
