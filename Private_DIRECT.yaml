@@ -10,8 +10,8 @@ payload:
   - RULE-SET,microsoft
   - RULE-SET,icloud
   - RULE-SET,apple
-  # - RULE-SET,lancidr
-  # - RULE-SET,cncidr
+  - RULE-SET,lancidr
+  - RULE-SET,cncidr
   - RULE-SET,direct
   - DOMAIN-SUFFIX,local
   - IP-CIDR,127.0.0.0/8
@@ -24,8 +24,8 @@ payload:
   - IP-CIDR6,fe80::/10
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
-  - GEOIP,LAN
-  - GEOIP,CN
+  # - GEOIP,LAN
+  # - GEOIP,CN
   - DOMAIN-SUFFIX,zhile.io
   - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,duolingo
