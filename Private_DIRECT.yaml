@@ -12,7 +12,7 @@ payload:
   - RULE-SET,apple
   # - RULE-SET,lancidr
   # - RULE-SET,cncidr
-  # - RULE-SET,direct
+  - RULE-SET,direct
   - DOMAIN-SUFFIX,local
   - IP-CIDR,127.0.0.0/8
   - IP-CIDR,172.16.0.0/12
