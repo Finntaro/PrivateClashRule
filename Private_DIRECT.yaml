@@ -1,7 +1,7 @@
 payload:
   - DST-PORT,123
   - RULE-SET,wechat
-  - RULE-SET,douyin
+  - RULE-SET,bytedance
   - RULE-SET,private
   - RULE-SET,epic
   - RULE-SET,steamcn
