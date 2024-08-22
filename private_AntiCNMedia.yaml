@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,bbc.com
-  - DOMAIN-SUFFIX,pincong.rocks
-  - DOMAIN-SUFFIX,nytimes.com
-  - DOMAIN-SUFFIX,ntdtv.com
-  - DOMAIN-SUFFIX,rfa.org
-  - DOMAIN-SUFFIX,chinadigitaltimes.net
-  - DOMAIN-SUFFIX,voachinese.com
-  - DOMAIN-SUFFIX,epochtimes.com
+  - '+.bbc.com'
+  - '+.pincong.rocks'
+  - '+.nytimes.com'
+  - '+.ntdtv.com'
+  - '+.rfa.org'
+  - '+.chinadigitaltimes.net'
+  - '+.voachinese.com'
+  - '+.epochtimes.com'
