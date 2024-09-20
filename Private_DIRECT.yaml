@@ -18,6 +18,7 @@ payload:
   - DOMAIN-KEYWORD,magiconch,DIRECT
   - DOMAIN-KEYWORD,51job,DIRECT
   - DOMAIN-KEYWORD,kurogame,DIRECT
+  - DOMAIN-KEYWORD,pianbar,DIRECT
   - DOMAIN-SUFFIX,aki-game.com,DIRECT
   - DOMAIN-SUFFIX,ghproxy.com,DIRECT
   - DOMAIN-SUFFIX,wxianlai.com,DIRECT
@@ -33,4 +34,3 @@ payload:
   - DOMAIN-SUFFIX,vuljers.com,DIRECT
   - DOMAIN-SUFFIX,xylhwdu.com,DIRECT
   - DOMAIN-SUFFIX,heibanwa.mobi,DIRECT
-  - DOMAIN-SUFFIX,pianbar.net,DIRECT
