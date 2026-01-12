@@ -51,3 +51,5 @@ payload:
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,tongqiushengxue.com
   - DOMAIN-SUFFIX,fsems.com
+  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,bitwarden.net
