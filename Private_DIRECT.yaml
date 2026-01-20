@@ -53,3 +53,5 @@ payload:
   - DOMAIN-SUFFIX,fsems.com
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.net
+  - DOMAIN-SUFFIX,kiro.dev
+  - DOMAIN-SUFFIX,suiyuee.top
